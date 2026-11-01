@@ -37,7 +37,7 @@
 | Support notes lost in separate chats | A handoff written inside Dameware Mini Remote Control |
 | Mixed personal boxes and office PCs | Separate profiles inside Dameware Mini Remote Control |
 
-![Dameware Mini Remote Control](https://www.dnsstuff.com/wp-content/uploads/2024/11/image-8.jpg)
+![Dameware Mini Remote Control](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60EXlC2CXhK919we1q5bQ0nb0Ciw33C2PkhhNcrlOJg&s=10)
 
 ## First Questions
 
